@@ -1,0 +1,26 @@
+[
+  {
+    "doctor_id": "DOC001",
+    "name": "Dr. Rahul Sharma",
+    "specialization": "Cardiologist",
+    "experience": 12,
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "available_time": "10:00 AM - 2:00 PM"
+  },
+  {
+    "doctor_id": "DOC002",
+    "name": "Dr. Priya Mehta",
+    "specialization": "Dermatologist",
+    "experience": 8,
+    "available_days": ["Tuesday", "Thursday", "Saturday"],
+    "available_time": "11:00 AM - 4:00 PM"
+  },
+  {
+    "doctor_id": "DOC003",
+    "name": "Dr. Amit Patil",
+    "specialization": "General Physician",
+    "experience": 10,
+    "available_days": ["Monday", "Tuesday", "Thursday", "Friday"],
+    "available_time": "9:00 AM - 1:00 PM"
+  }
+]
